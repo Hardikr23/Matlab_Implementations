@@ -1,10 +1,3 @@
-% CS 5810  -- Programming for data analysis 
-%
-%  Assignment 3 | Prof. Alberto Paccanaro
-% 
-% 
-% 
-% Insert BELOW your code 
 
 % Reading all files data abd making a cell array of each.
 RR_file = fopen("RedRidingHood.txt","r");

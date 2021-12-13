@@ -1,10 +1,3 @@
-% CS 5810  -- Programming for data analysis 
-%
-%  Assignment 3 | Prof. Alberto Paccanaro
-% 
-%
-% 
-% Insert BELOW your code 
  
 function [C, V] = mykmeans(Data, k)
     n = size(Data, 1); % Total points
